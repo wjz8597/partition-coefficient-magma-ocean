@@ -10,4 +10,3 @@ Liq110 80Fe+Pb rho[g/cc]= 8.88000 V[A^3]= 874.17640 P[GPa]= 91.66760 0.05060 T[K
 Liq110 80Fe+Pb rho[g/cc]= 8.92990 V[A^3]= 869.29109 P[GPa]= 93.27210 0.05580 T[K]=   5000 F_cmc-F0[Ha/cell]= 9.95495 F0_with_corr[Ha/cell]= -17.49862 F[Ha/cell]= -7.54367 0.10000 G[Ha/cell]= 11.05389 0.10000
 Liq110 80Fe+Pb rho[g/cc]= 9.68787 V[A^3]= 801.27884 P[GPa]= 118.16270 0.06080 T[K]=   5000 F_cmc-F0[Ha/cell]= 11.49013 F0_with_corr[Ha/cell]= -17.39413 F[Ha/cell]= -5.90401 0.10000 G[Ha/cell]= 15.81315 0.10000
 Liq110 80Fe+Pb rho[g/cc]= 10.24818 V[A^3]= 757.47009 P[GPa]= 139.42610 0.06480 T[K]=   5000 F_cmc-F0[Ha/cell]= 12.70845 F0_with_corr[Ha/cell]= -17.32202 F[Ha/cell]= -4.61357 0.10000 G[Ha/cell]= 19.61058 0.10000
-Liq110  rho[g/cc]= 0.00000 V[A^3]= 0.00000 P[GPa]= 0.00000 0.00000 T[K]=      0 F_cmc-F0[Ha/cell]= 0.00000 F0_with_corr[Ha/cell]= 0.00000 F[Ha/cell]= 0.00000 0.10000 G[Ha/cell]= 0.00000 0.10000
