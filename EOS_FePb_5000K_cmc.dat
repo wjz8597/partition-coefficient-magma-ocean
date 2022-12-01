@@ -1,0 +1,8 @@
+5GPa   80Fe+Pb rho[g/cc]= 6.90000 V[A^3]= 1125.02702  P[GPa]= 45.33220 0.00370 T[K]=   5000 F_cmc-F0[Ha/cell]= 6.47004  F0_with_corr[Ha/cell]= -17.82937 F[Ha/cell]= -11.35934 0.10000 G[Ha/cell]= 0.33859 0.10000
+10GPa  80Fe+Pb rho[g/cc]= 7.25240 V[A^3]= 1070.36110  P[GPa]= 51.89500 0.00420 T[K]=   5000 F_cmc-F0[Ha/cell]= 7.01433  F0_with_corr[Ha/cell]= -17.76549 F[Ha/cell]= -10.75115 0.10000 G[Ha/cell]= 1.98959 0.10000
+15GPa  80Fe+Pb rho[g/cc]= 7.54771 V[A^3]= 1028.48260  P[GPa]= 57.93230 0.00450 T[K]=   5000 F_cmc-F0[Ha/cell]= 7.49025  F0_with_corr[Ha/cell]= -17.71430 F[Ha/cell]= -10.22404 0.10000 G[Ha/cell]= 3.44244 0.10000
+25GPa  80Fe+Pb rho[g/cc]= 8.06305 V[A^3]= 962.74777   P[GPa]= 69.66810 0.00520 T[K]=   5000 F_cmc-F0[Ha/cell]= 8.36330  F0_with_corr[Ha/cell]= -17.62959 F[Ha/cell]= -9.26629 0.10000  G[Ha/cell]= 6.11829 0.10000
+35GPa  80Fe+Pb rho[g/cc]= 8.39221 V[A^3]= 924.98702   P[GPa]= 78.04670 0.00560 T[K]=   5000 F_cmc-F0[Ha/cell]= 8.95067  F0_with_corr[Ha/cell]= -17.57827 F[Ha/cell]= -8.62759 0.10000  G[Ha/cell]= 7.93122 0.10000
+50GPa  80Fe+Pb rho[g/cc]= 8.92990 V[A^3]= 869.29109   P[GPa]= 93.25820 0.00640 T[K]=   5000 F_cmc-F0[Ha/cell]= 9.96117  F0_with_corr[Ha/cell]= -17.49862 F[Ha/cell]= -7.53745 0.10000  G[Ha/cell]= 11.05733 0.10000
+75GPa  80Fe+Pb rho[g/cc]= 9.68787 V[A^3]= 801.27884  P[GPa]= 118.22040 0.00730 T[K]=   5000 F_cmc-F0[Ha/cell]= 11.49564 F0_with_corr[Ha/cell]= -17.39413 F[Ha/cell]= -5.89849 0.10000  G[Ha/cell]= 15.82927 0.10000
+100GPa 80Fe+Pb rho[g/cc]= 10.24818 V[A^3]= 757.47009 P[GPa]= 139.45070 0.00790 T[K]=   5000 F_cmc-F0[Ha/cell]= 12.71396 F0_with_corr[Ha/cell]= -17.32202 F[Ha/cell]= -4.60806 0.10000  G[Ha/cell]= 19.62036 0.10000
